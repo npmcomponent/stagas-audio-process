@@ -1,0 +1,13 @@
+{
+  "name": "stagas-audio-process",
+  "description": "creates a webaudio script process input node",
+  "version": "0.1.0",
+  "keywords": [
+    "audio",
+    "webaudio",
+    "input",
+    "process"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
